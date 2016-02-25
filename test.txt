@@ -1,0 +1,6 @@
+S=AB|AA;
+A=BB;
+B=BA|AA;
+A=a;
+B=b;
+aabba

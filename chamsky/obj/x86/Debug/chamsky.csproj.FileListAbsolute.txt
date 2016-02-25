@@ -1,0 +1,16 @@
+c:\users\mohammad\documents\visual studio 2010\projects\chamsky\chamsky\bin\Debug\chamsky.exe
+c:\users\mohammad\documents\visual studio 2010\projects\chamsky\chamsky\bin\Debug\chamsky.pdb
+c:\users\mohammad\documents\visual studio 2010\projects\chamsky\chamsky\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mohammad\documents\visual studio 2010\projects\chamsky\chamsky\obj\x86\Debug\chamsky.Form1.resources
+c:\users\mohammad\documents\visual studio 2010\projects\chamsky\chamsky\obj\x86\Debug\chamsky.Properties.Resources.resources
+c:\users\mohammad\documents\visual studio 2010\projects\chamsky\chamsky\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mohammad\documents\visual studio 2010\projects\chamsky\chamsky\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mohammad\documents\visual studio 2010\projects\chamsky\chamsky\obj\x86\Debug\chamsky.exe
+c:\users\mohammad\documents\visual studio 2010\projects\chamsky\chamsky\obj\x86\Debug\chamsky.pdb
+C:\Users\mohammad\Documents\Visual Studio 2010\Projects\chamsky\chamsky\obj\x86\Debug\chamsky.Form2.resources
+C:\Users\mohammad-kh\Documents\Visual Studio 2010\Projects\chamsky\chamsky\obj\x86\Debug\chamsky.exe
+C:\Users\mohammad-kh\Documents\Visual Studio 2010\Projects\chamsky\chamsky\obj\x86\Debug\chamsky.pdb
+C:\Users\mohammad-kh\Documents\Visual Studio 2010\Projects\chamsky\chamsky\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Projects\chamsky\chamsky\obj\x86\Debug\chamsky.exe
+H:\Projects\chamsky\chamsky\obj\x86\Debug\chamsky.pdb
+H:\Projects\chamsky\chamsky\obj\x86\Debug\chamsky.csprojResolveAssemblyReference.cache
